@@ -1,0 +1,79 @@
+<html>
+<head><title>Meow</title>
+</head>
+<body>
+<h1>Powody dla których MUSIMY sie spotkać</h1>
+<p>Dowiesz się,dlaczego warto sie ze mna spotkać :3
+<body style="background-color:pink; color:black">
+</body>
+<ul>
+<li>na pewno zmienisz zdanie </li>
+<li>dowiesz sie ze mi na tobie zalezy </li>
+<li>pokochasz spacerki (i mnie) </li>
+</ul>
+<p>
+<table border="3"> 
+<tr>
+<td><b>DLACZEGO</b></td><td><b>OPIS</b></td>
+</tr>
+<tr>
+<td>Lepiej sie poznamy</td><td>Kiedy sie spotkamy,bedziemy mogli poznac sie lepiej i zakochac sie coraz mocniej</td>
+</tr>
+<tr>
+<td>Spokoj</td><td>Przy tobie bede sie czula spokojnie,bede szczesliwa!(ty tez)</td>
+</tr>
+<tr>
+<td>Dotyk</td><td>W koncu bedziemy mogli sie przytulac i trzymac sie za rece!</td>
+</tr>
+<tr>
+<td>Twoja sliczna buzka</td><td>Bede mogla patrzec na ciebie caly czas (jestes najpiekniejszy patrys)</td>
+</tr>
+<tr>
+<td>Humor</td><td>Poprawi nam sie bardzo humor bo sie kochamy!</td>
+</tr>
+<tr>
+<td>Żanetka (i Bogdan)</td><td>Poznam lepiej Żanetke i Bogdana. Z Żanetką bede mogla gotowac jedzenie (mniam)</td>
+</tr>
+<tr>
+<td>Bella i Czarnuch</td><td>Bedziemy sie bawic z bella i czarnuchiem!to jest slodkie uwu</td>
+</tr>
+<tr>
+<td>Fortnite</td><td>Nauczysz mnie grac w fortnajt (albo bede ogladac jak grasz)</td>
+</tr>
+<tr>
+<td>Jedzonko</td><td>Cokolwiek poprosisz,ugotuje wszytsko (albo kupie) (mam 0 zl na koncie ale nie szkodzi)</td>
+</tr>
+<tr>
+<td>Dlugie rozmowy</td><td>Bedziemy rozmawiac o wszytskim i o niczym</td>
+</tr>
+<tr>
+<td>Ploteczki</td><td>Obgadywanie calego swiata brzmi jak super pomysl</td>
+</tr>
+<tr>
+<td>Sen</td><td>Spanko razem (żart,przeciez zanetka by nam n pozwolila)(nie dziwie sie)</td>
+</tr>
+<tr>
+<td>Owulacja</td><td>Mysle ze nie musze nic mowic MUHAHA</td>
+</tr>
+<tr>
+<td>Muzyka</td><td>Wspolne sluchanie muzyki jest takie slodkie o moj boze</td>
+</tr>
+<tr>
+<td>Tik Tok</td><td>Wspolne ogladanie tiktoka i zamiast wysylania pokazywac sobie wszytsko omg</td>
+</tr>
+<tr>
+<td>Reposty</td><td>Moze w koncu przestaniesz repostowac smutne rzeczy o tym,ze jestes samotny (nie jestes)</td>
+</tr>
+<tr>
+<td>Pakoslaw</td><td>Super rozwiniete miasto ktore musze poznac. Miasto spelnienia marzen</td>
+</tr>
+<tr>
+<td>Spacerki</td><td>Pojdziemy na wieczorny spacerek gdzies daleko na jakies zadupie (jesli to sie stanie w pakoslawiu to mysle ze nie muimy jakos daleko iscXDDDD)</td>
+</tr>
+<tr>
+<td>Las</td><td>Mozemy swietnie sie bawic w lesie(haha)</td>
+</tr>
+<tr>
+<td>Urbex</td><td>Imagine zwiedzac razem opuszczone miejsca</td>
+</tr>
+<tr>
